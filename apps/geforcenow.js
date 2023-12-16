@@ -2,7 +2,7 @@ export default class GeforceNow {
   meta = {
     name: 'Geforce Now',
     description: 'Play any game you want on the web! No download required!',
-    icon: 'https://raw.githubusercontent.com/CreeperGate/custom-flowos-respository/34ae64125dffb80d2c0d35708956c0b8357ee980/assets/phantom.svg?token=AQVDAONPVKXMRVN6C5I4UXDFPTYYY',
+    icon: 'https://raw.githubusercontent.com/CreeperGate/custom-flowos-respository/main/assets/favicon.ico?token=GHSAT0AAAAAACLVR6P32MGDTJ55OIU7KI6WZL47SGA',
     pkg: 'nvidia.geforcenow',
     version: '1.0.0'
   }
