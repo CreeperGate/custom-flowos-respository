@@ -1,0 +1,13 @@
+{
+  "name": "CreeperGate's Custom FlowOS Respositoru",
+  "apps": [
+    {
+      "name": "Phantom Games",
+      "description": "Phantom Games, the BEST place to find fun unblocked games! Here, you can find any game you want, all in one place! Huge thanks to @BlazerHM on Youtube and 3kh0 (https://github.com/3kh0) for the site and games!",
+      "pkg": "blazerhm.phantomgames",
+      "version": "1.0.0",
+      "icon": "https://raw.githubusercontent.com/CreeperGate/custom-flowos-respository/7566111cde8adb77d2c06e2bdae7aaf58624e3ef/assets/phantom.svg?token=AQVDAOKX65OKCDJGVUT3UJDFPT3FS",
+      "url": "https://raw.githubusercontent.com/CreeperGate/custom-flowos-respository/main/apps/phantomgames.js?token=GHSAT0AAAAAACLVR6P3XDSCED5LK36MI7MAZL46Z3A"
+    },
+  ]
+}
