@@ -1,5 +1,5 @@
 {
-  "name": "CreeperGate's Custom FlowOS Respositoru",
+  "name": "CreeperGate's Custom FlowOS Respository",
   "apps": [
     {
       "name": "Phantom Games",
@@ -8,6 +8,13 @@
       "version": "1.0.0",
       "icon": "https://raw.githubusercontent.com/CreeperGate/custom-flowos-respository/7566111cde8adb77d2c06e2bdae7aaf58624e3ef/assets/phantom.svg?token=AQVDAOKX65OKCDJGVUT3UJDFPT3FS",
       "url": "https://raw.githubusercontent.com/CreeperGate/custom-flowos-respository/main/apps/phantomgames.js?token=GHSAT0AAAAAACLVR6P3XDSCED5LK36MI7MAZL46Z3A"
+      {
+      "name": "Geforce Now",
+      "description": "Play any game you want on the web! No download required!",
+      "pkg": "nvidia.geforcenow",
+      "version": "1.0.0",
+      "icon": "https://raw.githubusercontent.com/CreeperGate/custom-flowos-respository/main/assets/favicon.ico?token=GHSAT0AAAAAACLVR6P32MGDTJ55OIU7KI6WZL47SGA",
+      "url": "https://raw.githubusercontent.com/CreeperGate/custom-flowos-respository/main/apps/geforcenow.js?token=GHSAT0AAAAAACLVR6P2GSSXJCEMXHDA5O2EZL47VWQ"
     },
   ]
 }
