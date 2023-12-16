@@ -2,7 +2,7 @@ export default class PhantomGames {
   meta = {
     name: 'Phantom Games',
     description: 'Phantom Games, the BEST place to find fun unblocked games! Here, you can find any game you want, all in one place! Huge thanks to @BlazerHM on Youtube and 3kh0 (https://github.com/3kh0) for the site and games!',
-    icon: 'https://phantomgames.dev/assets/phantom.svg',
+    icon: 'https://raw.githubusercontent.com/CreeperGate/custom-flowos-respository/d4c0901ac8c25d95ac01a211d0168456fbb9e55d/phantom.svg?token=AQVDAOMSTKSISS6FROZACMLFPTYQA',
     pkg: 'blazerhm.phantomgames',
     version: '1.0.0'
   }
