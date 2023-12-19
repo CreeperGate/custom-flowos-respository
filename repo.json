@@ -15,6 +15,13 @@
       "version": "1.0.0",
       "icon": "https://raw.githubusercontent.com/CreeperGate/custom-flowos-respository/main/assets/favicon.ico?token=GHSAT0AAAAAACLVR6P32MGDTJ55OIU7KI6WZL47SGA",
       "url": "https://raw.githubusercontent.com/CreeperGate/custom-flowos-respository/main/apps/geforcenow.js?token=GHSAT0AAAAAACLVR6P2GSSXJCEMXHDA5O2EZL47VWQ"
+      {
+      "name": "1v1.lol",
+      "description": "Discover 1v1, the online building simulator & third person shooting game. Battle royale, build fight, box fight, zone wars and more game modes to enjoy!",
+      "pkg": "1v1.lol",
+      "version": "1.0.0",
+      "icon": "https://raw.githubusercontent.com/CreeperGate/custom-flowos-respository/main/assets/1v1lolicon.webp",
+      "url": "https://raw.githubusercontent.com/CreeperGate/custom-flowos-respository/main/apps/1v1lol.js"
     },
   ]
 }
