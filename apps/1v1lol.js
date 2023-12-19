@@ -2,7 +2,7 @@ export default class 1v1.lol {
   meta = {
     name: '1v1.lol',
     description: 'Discover 1v1, the online building simulator & third person shooting game. Battle royale, build fight, box fight, zone wars and more game modes to enjoy!',
-    icon: 'INSERTATHOME',
+    icon: 'https://raw.githubusercontent.com/CreeperGate/custom-flowos-respository/main/assets/1v1lolicon.webp',
     pkg: '1v1.lol',
     version: '1.0.0'
   }
